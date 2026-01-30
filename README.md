@@ -1,2 +1,3 @@
 # HTML-assignment
-It is an short assignment project
+clone the repo 
+Open the index.html in web browser
